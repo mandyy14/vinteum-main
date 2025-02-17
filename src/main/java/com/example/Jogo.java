@@ -25,6 +25,6 @@ public class Jogo{
     }
 
     public String resultado(){
-        return "Descubra..."
+        return "Descubra...";
     }
 }
